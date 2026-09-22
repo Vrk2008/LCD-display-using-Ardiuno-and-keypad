@@ -149,4 +149,5 @@ When the hardware is fully configured and the sketch is flashed successfully, th
 * **Menu Navigation Trees:** Developing an embedded nested display UI system where keys like `A` and `B` act as scrolling navigation selectors (e.g., Up/Down/Enter/Back) to adjust configuration parameters like threshold limits or motor speeds.
 
 ---
+<img width="1600" height="720" alt="LCD DISPLAY USING KEYPAD" src="https://github.com/user-attachments/assets/dcc82418-f079-4a02-b8a4-489ca34ea43b" />
 
